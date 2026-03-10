@@ -1,5 +1,5 @@
 # TokenShield AI 🛡️
-⚠️ Important (TokenShield AI is a functional multi-agent crypto analysis system — not just a UI concept.)
+⚠️ Important (TokenShield AI is a functional multi-agent crypto analysis system — <b>not just a UI concept.<b/>)
 
 Multi-Agent Crypto Safety Assistant for Binance Smart Chain
 TokenShield AI is a multi-agent crypto safety assistant designed to help users analyze the risk of tokens on Binance Smart Chain.
@@ -38,6 +38,8 @@ Displays results to the user including:
 - Holder distribution
 - Liquidity insights
 - AI explanation
+<h2>Risk Analysis Live Proof</h2>
+  <img src="Screenshot/Risk Analysis.png" width="800"/>
 
 ## ⚙️ Features
 
@@ -72,18 +74,10 @@ TokenShield AI helps users:
 
 ## 📸 Screenshots
 
-(Add screenshots here)
-
-Example:
-
-![Dashboard](screenshot1.png)
-![Risk Analysis](screenshot2.png)
-
 ## 🏆 Built For
 
 Binance AI OpenClaw Challenge  
 #AIBinanceshowcasing
 
 ## 👨‍💻 Author
-
-Kisaru Sasmika
+KSA
